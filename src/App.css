@@ -1,0 +1,155 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+#app{
+border: 2px solid #0250aa;
+padding: 20px;
+border-radius: 15px;
+ 
+}
+
+#app input{
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  outline-color: gray;
+  padding-left: 15px;
+}
+section{
+  position: sticky;
+  top: 0;
+  background-color: #0250aa;
+  padding: 40px;
+  border-radius: 15px;
+  
+}
+
+
+
+/* #app{
+
+
+}
+
+h1 {
+  color: #333;
+}
+h2{
+  font-family:'Tiro Bangla'
+
+}
+#total {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #dedede;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+ position: absolute;
+ right: 19%;
+ top: 50%;
+ position: fixed;
+}
+
+#sales-form input, #sales-form button {
+  margin: 5px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  
+}
+
+table, th, td {
+  border: 1px solid #dedede;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #333;
+  color: #fff;
+}
+
+
+
+
+
+
+
+#sales-table h2{
+ color: black;
+}
+
+#total{
+  position: absolute;
+  right: 11%;
+  height: 100px;
+  width: 150px;
+  position: fixed;
+  padding-bottom: 50px;
+}
+
+#total-amount {
+  font-weight: bold;
+  font-size: 18px;
+  color: #333;
+}
+
+
+#sales-table th{
+ position: sticky;
+ top: 260px;
+ 
+} */
+
+#deposit-form input{
+  width: 365px;
+}
+
+button {
+  background-color: #333333;
+  color: #fff;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px;
+ 
+}
+
+button:hover {
+  background-color: #555;
+}
+
+/* #product{
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  outline-color: gray;
+  padding-left: 15px;
+}
+#amount{
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  outline-color: gray;
+  padding-left: 15px;
+} */

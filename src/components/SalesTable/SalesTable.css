@@ -1,0 +1,41 @@
+
+#sales-table h2{
+   
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; */
+    color: black;
+}
+
+table, th, td {
+    border: 1px solid #dedede;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #333;
+    color: #fff;
+}
+table tr{
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    
+  }
+button {
+    background-color: #333333;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
